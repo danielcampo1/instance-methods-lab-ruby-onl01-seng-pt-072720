@@ -11,3 +11,4 @@ end
 end
 
 fido.bark
+fido.sit
