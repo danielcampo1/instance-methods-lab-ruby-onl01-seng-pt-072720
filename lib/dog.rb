@@ -10,3 +10,4 @@ def sit
 end
 end
 
+fido.bark
